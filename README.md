@@ -1,6 +1,6 @@
 # Hi! This is 杨仕炜!
 
-**I am glad you can click to open my homepage
+** I am glad you can click to open my homepage **
 
 - 🌱 I’m currently majoring in Computer Science at WHPU.
 - 🔭 I’m currently learning JDBC,Java Web.
