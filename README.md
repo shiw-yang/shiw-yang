@@ -3,7 +3,7 @@
 **I am glad you can click to open my homepage**
 
 - 🌱 I’m currently majoring in Computer Science at WHPU.
-- 🔭 I’m currently learning Java Web and Vuejs.
+- 🔭 I’m currently learning Java (Collections ,JUC ,IO ) and Go 
 - ⚡ Fun fact: I also an electric guitar player.
 - 📫 How to reach me: Yshiwi@outlook.com, or open an issue in any of my repos.
 
