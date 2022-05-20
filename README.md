@@ -5,7 +5,7 @@
 - 🌱 I’m currently majoring in Software Engineering at WHPU.
 - 📖 My main learning direction is back-end development
 - 🔭 In the past my main language was Java, and I learned about Collections, IO, Concurrency and a little bit of JUC
-- 🧑‍🏭 I have completed my SDB-IOT project based on Ruoyi framework.
+- 🧑‍ I have completed my SDB-IOT project based on Ruoyi framework.
 - ⚡ This project uses simple RabbitMQ, MongoDB, and MQTT IoT protocol to complete a simple IoT project
 - 💬 Right now, the company I'm interning for is using Python and Go, and I'm also learning these two languages as a rookie and want to be able to do something simple
 - ⚡ Fun fact: I also an electric guitar player, You can also click this [link](https://space.bilibili.com/34094578) to watch my performance video
