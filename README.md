@@ -1,23 +1,14 @@
-# Hi! This is 杨仕炜!
+# Hi! This is shiwyang!
 
 **I am glad you can click to open my homepage**
 
-- 🌱 I’m currently majoring in Computer Science at WHPU.
-- 🔭 I’m currently learning Java (Collections ,JUC ,IO ) and Go 
-- ⚡ Fun fact: I also an electric guitar player.
-- 📫 How to reach me: Yshiwi@outlook.com, or open an issue in any of my repos.
+- 🌱 I’m currently majoring in Software Engineering at WHPU.
+- 📖 My main learning direction is back-end development
+- 🔭 In the past my main language was Java, and I learned about Collections, IO, Concurrency and a little bit of JUC
+- 🧑‍🏭 I have completed my SDB-IOT project based on Ruoyi framework.
+- ⚡ This project uses simple RabbitMQ, MongoDB, and MQTT IoT protocol to complete a simple IoT project
+- 💬 Right now, the company I'm interning for is using Python and Go, and I'm also learning these two languages as a rookie and want to be able to do something simple
+- ⚡ Fun fact: I also an electric guitar player, You can also click this [link](https://space.bilibili.com/34094578) to watch my performance video
+- 📫 How to reach me: yshiwi@foxmail.com,Yshiwi@outlook.com, or open an issue in any of my repos.
 
-<!--
-**jeffyangcoder/jeffyangcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
--  ...
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
