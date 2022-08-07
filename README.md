@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently majoring in Software Engineering at WHPU.
 - 📖 My main learning direction is back-end development.
-- 📖 You can see some technical articles I share daily at [shiweiyang-Juejin](https://juejin.cn/user/897661566987288/posts) and [shiweiyang-Yuque](https://www.yuque.com/juduibenerjiasuanyierchunzhi-7tqem)
+- 📖 You can see some technical articles I share daily at [shiweiyang-Yuque](https://www.yuque.com/juduibenerjiasuanyierchunzhi-7tqem)
 - 🔭 In the past my main was Java, In the meantime I have learned about Collections, IO, Concurrency and a little bit of JUC.
 - 🧑‍ I have completed my SDB-IOT project based on Ruoyi framework.
 - ⚡ This project uses simple RabbitMQ, MongoDB, and MQTT IoT protocol to complete a simple IoT project
