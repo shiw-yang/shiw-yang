@@ -12,5 +12,14 @@
 - ⚡ Fun fact: I also an electric guitar player, You can also click this link to watch my [performance video](https://space.bilibili.com/34094578)
 - 📫 How to reach me: yshiwi@foxmail.com or open an issue in any of my repos.
 
+## My Skills
+
+### Conversant
+
+[![My Skills](https://skillicons.dev/icons?i=go,java,git,mongo,mysql,vscode)](https://skillicons.dev)
+
+### Knowable
+
+[![My Skills](https://skillicons.dev/icons?i=linux,python,vim,docker,k8s,redis)](https://skillicons.dev)
 
 
