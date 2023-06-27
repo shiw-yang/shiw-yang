@@ -1,15 +1,15 @@
 # Hi! This is shiwyang!
+**Welcome to my GitHub homepage!**
 
-**I am glad you can click to open my homepage**
-
-- 🌱 I’m currently majoring in Software Engineering at WHPU.
-- 📖 My main learning direction is back-end development.
-- 📖 You can see some technical articles I share daily at [shiweiyang-Yuque](https://www.yuque.com/juduibenerjiasuanyierchunzhi-7tqem),and [shiwyang-Leetcode](https://leetcode.cn/u/sh1wyang/)
-- 🔭 In the past my main was Java
-- 💬 Right now, [Horizon Robotics](https://cn.horizon.ai/) the company I'm working for is using Golang and Python, and I'm also learning these two languages as a rookie and want to be able to do something simple
-- ⚡ Fun fact: I also an electric guitar player, You can also click this link to watch my [performance video](https://space.bilibili.com/34094578)
-- 📫 How to reach me: yshiwi@foxmail.com or open an issue in any of my repos.
-
+- 🎓 I'm a graduate of WHPU with a major in Software Engineering.
+- 💻 My expertise lies in back-end development, with a focus on Go and Python.
+- 🏢 Currently, I am working at  [Horizon Robotics](https://cn.horizon.ai/), where I contribute to projects using Go and Python.
+- 📚 You can find some of the technical articles I share regularly on [shiweiyang-Yuque](https://www.yuque.com/juduibenerjiasuanyierchunzhi-7tqem) and [shiwyang-Leetcode](https://leetcode.cn/u/sh1wyang/).
+- ⚡ Fun fact: I'm not just a developer; I'm also an electric guitar player! Check out my [performance video](https://space.bilibili.com/34094578) to see me in action.
+- 📫 Feel free to reach out to me via email at yshiwi@foxmail.com or by opening an issue in any of my repositories.
+  
+**Stay curious and keep coding!**
+  
 ## My Skills
 
 ### Conversant
