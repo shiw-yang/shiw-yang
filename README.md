@@ -15,10 +15,10 @@
 
 ### Conversant
 
-[![My Skills](https://skillicons.dev/icons?i=go,java,git,mongo,mysql,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,python,git,mongo,mysql)](https://skillicons.dev)
 
 ### Knowable
 
-[![My Skills](https://skillicons.dev/icons?i=linux,python,vim,docker,k8s,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,vue,js,vim,docker,k8s,redis,kafka)](https://skillicons.dev)
 
 
