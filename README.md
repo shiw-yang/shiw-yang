@@ -2,7 +2,7 @@
 **Welcome to my GitHub homepage!**
 
 - 🎓 I'm a graduate of WHPU with a major in Software Engineering.
-- 💻 My expertise centers around back-end development, primarily with Go and Python, where I focus on an ML SCHEDULE SYSTEM.
+- 💻 My expertise centers around back-end development, primarily with Go and Python, where I focus on an High-Performance Task Orchestration & Management System.
 - 💻 Additionally, I extend my contributions to front-end development, specifically utilizing Vue, to craft intuitive and responsive user interfaces.
 - 🏢 Currently, I am working at  [Horizon Robotics](https://cn.horizon.ai/).
 - 📚 You can find some of the technical articles I share regularly on [shiweiyang-Yuque](https://www.yuque.com/juduibenerjiasuanyierchunzhi-7tqem) and [shiwyang-Leetcode](https://leetcode.cn/u/sh1wyang/).
