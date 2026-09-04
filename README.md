@@ -1,15 +1,18 @@
-# Hi! This is shiwyang!
-**Welcome to my GitHub homepage!**
-
-- 🏢 Currently, I am working at  [Horizon Robotics](https://cn.horizon.ai/) for more than 2 years.
-- 💻 My expertise centers around back-end development, primarily with Go and Python, where I focus on an High-Performance Task Orchestration & Management System.
-- 💻 Additionally, I extend my contributions to front-end development, specifically utilizing Vue, to craft intuitive and responsive user interfaces.
-- 📚 You can find some of the technical articles I share regularly on [shiweiyang-Yuque](https://www.yuque.com/juduibenerjiasuanyierchunzhi-7tqem) and [shiwyang-Leetcode](https://leetcode.cn/u/sh1wyang/).
-- ⚡ Fun fact: I'm not just a developer; I'm also an electric guitar player! Check out my [performance video](https://space.bilibili.com/34094578) to see me in action.
-- 📫 Feel free to reach out to me via email at yshiwi@foxmail.com or by opening an issue in any of my repositories.
-  
 **Stay curious and keep coding!**
-  
+
+# Hi, I’m Shiwyang! 👋
+**Welcome to my GitHub corner.**
+
+- 🔭 Currently – I’m working at Sand AI, building inference systems – focusing on performance, model serving, and low‑latency deployment. Before that, I spent 3 years at Horizon Robotics.
+
+- 🧑‍💻 Tech stack – My backend roots are in Go and Python, with a strong track record in distributed scheduling and high‑throughput systems. Now I’m deep into inference‑oriented work, leveraging Python, optimization tools, and modern serving frameworks.
+
+- 🎸 Fun fact – When I’m not coding, I’m probably playing electric guitar. Check out my [performance video](https://space.bilibili.com/34094578) – I promise it’s more melodic than my commit logs 😄
+
+- 📬 Let’s connect – Email me at `shiwyang@outlook.com` or open an issue on any repo. I’m always happy to chat about tech, music, or anything in between.
+
+**Stay curious, keep building. 🚀**
+
 ## My Skills
 
 ### Conversant
